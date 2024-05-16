@@ -58,10 +58,18 @@ Task 3:- Prepare the analysis report stating how model will help expanding the b
 19. Wifi functionality is present in 51% of market devices.
 20. Market segmentation across Low, Medium, High, and Very High cost categories is evenly distributed at 25%       each.
 
-21. ![Screenshot 2024-05-15 104100](https://github.com/Shailendra8111/CellPhone_Price_Predication/assets/157679339/3525a81f-dd40-4545-8da4-f49813eab553)
+21. # Bivariant Analysis
+23. ![Uploading Screenshot 2024-05-15 213534.png…]()
+24. ![Screenshot 2024-05-15 213721](https://github.com/Shailendra8111/CellPhone_Price_Predication/assets/157679339/6fc938b6-b993-4181-9af4-10404a322a62)
+25. ![Screenshot 2024-05-15 213741](https://github.com/Shailendra8111/CellPhone_Price_Predication/assets/157679339/8037d833-4bbf-4b2e-8b2b-1ce85fbedd3e)
 
 
-# The Gradient Boost Algorithm after Hyperparameter tuning gives the best accuracy of 94.82% whereas Descision Tree after hyperparametertunning gives the lowest accuracy of 88%.
+
+
+26. ![Screenshot 2024-05-15 221109](https://github.com/Shailendra8111/CellPhone_Price_Predication/assets/157679339/8265cf21-ae67-4c0e-bfdd-d1fb60484055)
+
+
+# As shown in the above table the Gradient Boost Algorithm after Hyperparameter tuning gives the best accuracy of 94.82% whereas Descision Tree after hyperparametertunning gives the lowest accuracy of 88%.
 
 # Challenges Faced 
 1. Analyzing the data posed a challenge owing to the extensive array of features.
