@@ -58,7 +58,7 @@ Task 3:- Prepare the analysis report stating how model will help expanding the b
 19. Wifi functionality is present in 51% of market devices.
 20. Market segmentation across Low, Medium, High, and Very High cost categories is evenly distributed at 25%       each. 
 
-# As shown in the above table the Gradient Boost Algorithm after Hyperparameter tuning gives the best accuracy of 94.82% whereas Descision Tree after hyperparametertunning gives the lowest accuracy of 88%.
+# The Gradient Boost Algorithm after Hyperparameter tuning gives the best accuracy of 94.82% whereas Descision Tree after hyperparametertunning gives the lowest accuracy of 88%.
 
 # Challenges Faced 
 1. Analyzing the data posed a challenge owing to the extensive array of features.
