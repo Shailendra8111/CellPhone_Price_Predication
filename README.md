@@ -1,4 +1,4 @@
-# OBJECTIVE:-
+# OBJECTIVE
 Task 1:-Prepare a complete data analysis report on the given data.
 
 Task 2:-On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc predict the Price range of the mobile.
@@ -36,7 +36,7 @@ Task 3:- Prepare the analysis report stating how model will help expanding the b
 
 4. Additionally, for a newcomer to make a notable impact in the market and garner a share of the market, they must offer something unique that existing models do not provide.
 
- # Univariant Analysis:-
+ # Univariant Analysis
 1.  The market's average phone battery size stands at 1239 mAh, with a range from 501 mAh to 1998 mAh.
 2.  Bluetooth connectivity is present in 50% of market phones, while the remainder lack this feature.
 3.  Devices in the market exhibit an average clock speed of 1.52 GHz, with a range from 0.5 GHz to 3 GHz.
