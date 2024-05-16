@@ -56,7 +56,10 @@ Task 3:- Prepare the analysis report stating how model will help expanding the b
 17. The average battery life of phones is approximately 11 hours, with a range from 2 hours to 20 hours.
 18. Touchscreen functionality is present in 50% of market devices.
 19. Wifi functionality is present in 51% of market devices.
-20. Market segmentation across Low, Medium, High, and Very High cost categories is evenly distributed at 25%       each. 
+20. Market segmentation across Low, Medium, High, and Very High cost categories is evenly distributed at 25%       each.
+
+21. ![Screenshot 2024-05-15 104100](https://github.com/Shailendra8111/CellPhone_Price_Predication/assets/157679339/3525a81f-dd40-4545-8da4-f49813eab553)
+
 
 # The Gradient Boost Algorithm after Hyperparameter tuning gives the best accuracy of 94.82% whereas Descision Tree after hyperparametertunning gives the lowest accuracy of 88%.
 
